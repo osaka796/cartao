@@ -9,24 +9,24 @@
     "description":"cartão!",
     "icons":[
         {
-            "src":"img.avatar-128.png",
+            "src":"img_avatar.png",
             "sizes":"128x128",
             "type":"img/png"
             
         },
         {
-            "src":"img.avatar-192.png",
+            "src":"img_avatar.png",
             "sizes":"192x192",
             "type":"img/png",
             "purpose":"any maskable"
         },
         {
-            "src":"img.avatar-256.png",
+            "src":"img_avatar.png",
             "sizes":"256x256",
             "type":"img/png"
         },
         {
-            "src":"img.avatar-512.png",
+            "src":"img_avatar.png",
             "sizes":"512x512",
             "type":"img/png"
         }
