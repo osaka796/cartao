@@ -6,6 +6,9 @@ body {
     color: #333;
   }
   
+  @media screen {
+    
+  
   .vcard-body {
     max-width: 468px;
     width: 100%;
@@ -64,3 +67,5 @@ body {
     font-size: 16px;
     margin-right: 10px;
   }
+
+}
