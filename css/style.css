@@ -6,15 +6,14 @@ body {
     color: #333;
   }
   
-  @media screen {
-    
+ 
   
   .vcard-body {
-    max-width: 468px;
-    width: 100%;
+    /* max-width: 468px; */
+    width: 500px;
     margin: 80px auto;
     background: #f4f4f4;
-    padding: 45px;
+    /* padding: 45px; */
     border-top: 6px solid #08aeac;
   }
   
@@ -68,4 +67,15 @@ body {
     margin-right: 10px;
   }
 
-}
+  @media screen and (max-width: 576px)
+  {
+    .vcard-body{
+      width: 400px;
+    }
+
+    .profile-title{
+      font-size: 1rem;
+    }
+
+
+  } 
