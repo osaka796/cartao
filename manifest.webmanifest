@@ -11,24 +11,24 @@
         {
             "src":"img/icon1.png",
             "sizes":"128x128",
-            "type":"img/png"
+            "type":"image/png"
             
         },
         {
             "src":"img/icon2.png",
             "sizes":"192x192",
-            "type":"img/png",
+            "type":"image/png",
             "purpose":"any maskable"
         },
         {
             "src":"img/icon3.png",
             "sizes":"256x256",
-            "type":"img/png"
+            "type":"image/png"
         },
         {
             "src":"img/icon4.png",
             "sizes":"512x512",
-            "type":"img/png"
+            "type":"image/png"
         }
     ],
     "lang":"pt-BR"
